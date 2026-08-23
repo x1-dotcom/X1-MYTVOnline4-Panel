@@ -24,6 +24,8 @@ This repository is currently a **public foundation workspace**. It does not yet 
 
 The intended direction is X1 control tooling for compatible MYTVOnline4-oriented workflows, developed with explicit compatibility contracts, clear operator responsibility and evidence-based runtime claims.
 
+<p align="center"><img src="./assets/x1-mytvonline4-capabilities.svg" alt="X1 MYTVOnline4 foundation capability surface" width="100%" /></p>
+
 ---
 
 ## Planned engineering principles
