@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://x1panel.space"><strong>WEBSITE</strong></a>
+  <a href="https://x1panelhq.com"><strong>WEBSITE</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://forum.x1panel.space"><strong>FORUM</strong></a>
+  <a href="https://forum.x1panelhq.com"><strong>FORUM</strong></a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/vSSw6jHmw"><strong>DISCORD</strong></a>
   &nbsp;·&nbsp;
@@ -70,7 +70,7 @@ This is an independent X1 project. Third-party product and trademark names are u
 
 ## Community
 
-- Forum — https://forum.x1panel.space
+- Forum — https://forum.x1panelhq.com
 - Discord — https://discord.gg/vSSw6jHmw
 - Telegram — https://t.me/+XkuQS_QuD6g4Nzc0
 
